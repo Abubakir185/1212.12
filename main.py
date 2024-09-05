@@ -1,0 +1,11 @@
+son1 = int(1212.12)
+son2 = int(11.2)
+son3 = str(90.90)
+son4 = int("8899")
+son5 = str(33)
+
+print(son1)
+print(son2)
+print(son3)
+print(son4)
+print(son5)
